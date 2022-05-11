@@ -9,7 +9,7 @@
 
 
 - 🏢 Atualmente estou trabalhando na BRF S.A. (<i>I’m currently working on BRF S.A.</i>);
-- 🌱 Estou estudando desenvolvimento web com React (<i>I’m currently learning web development with React</i>);
+- 🌱 Atualmente estou estudando desenvolvimento web com React (<i>I’m currently learning web development with React</i>);
 - 📫 Você pode me encontrar no <a href="https://www.linkedin.com/in/franciscogazaniga/">Linkedin</a> (<i>Reach me in <a href="https://www.linkedin.com/in/franciscogazaniga/">Linkedin</a></i>)
 
 
