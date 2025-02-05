@@ -1,15 +1,13 @@
-### Olá 👋
-### <i>Hello 👋</i>
+### Olá | <i>Hello</i> 👋
 
-<b>Eu sou um desenvolvedor RPA trabalhando em Santa Catarina, Brasil.</b></br>
-<i>I'm a RPA developer working in Santa Catarina, Brazil.</i>
+<b>Sou um desenvolvedor RPA atuando em Santa Catarina, Brasil.</b></br>
+<i>I’m an RPA developer based in Santa Catarina, Brazil.</i>
 
-<b>Nas horas vagas estudo e desenvolvo projetos utilizando React.</b></br>
-<i>In my spare time I study and develop projects using React.</i>
+<b>Nas horas vagas, estudo e desenvolvo projetos com React.</b></br>
+<i>In my spare time, I explore and develop projects using React.</i>
 
 
-- 🏢 Atualmente estou trabalhando na Bosch (<i>I’m currently working on Bosch</i>);
-- 🌱 Atualmente estou estudando desenvolvimento web/mobile com React (<i>I’m currently learning web development with React</i>);
+- 🏢 Atualmente, trabalho na Bosch. (<i>I’m currently working at Bosch</i>);
 - 📫 Você pode me encontrar no <a href="https://www.linkedin.com/in/franciscogazaniga/">Linkedin</a> (<i>Reach me in <a href="https://www.linkedin.com/in/franciscogazaniga/">Linkedin</a></i>)
 
 
